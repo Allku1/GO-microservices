@@ -1,10 +1,11 @@
 package main
 
 import (
-	"handlers"
 	"log"
 	"net/http"
 	"os"
+
+	"github.com/Allku1/GO-microservices/handlers"
 )
 
 func main() {
