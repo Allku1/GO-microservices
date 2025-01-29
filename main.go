@@ -8,9 +8,8 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/gorilla/mux"
-
 	"github.com/Allku1/GO-microservices/handlers"
+	"github.com/gorilla/mux"
 )
 
 func main() {
